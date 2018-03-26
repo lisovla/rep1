@@ -26,6 +26,7 @@ namespace WFVL
         {
             Rez = iD * iD;
             //return Rez;
+            //Комментарий
         }
     }
 
